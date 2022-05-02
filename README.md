@@ -8,3 +8,6 @@ This program simulates sensor readings of pots/flowers, gives you ability to add
 NOTE: default username and password are "admin" "admin"
 
 Additionally this program uses OpenWeather API to fetch REAL temperature value.
+
+Here you can find video demonstration of the program:
+https://www.youtube.com/watch?v=8R1znXR2bUE
